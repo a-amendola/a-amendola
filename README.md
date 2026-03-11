@@ -14,9 +14,7 @@ I'm a web developer who builds websites for small businesses while traveling the
 - Currently: freelancing remotely while backpacking around Asia
 
 ## Let's Connect
-<!--
 - [Portfolio](https://ashleyamendola.com)
--->
 - [Email](mailto:ashleyamendola0@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ashley-amendola/)
 
